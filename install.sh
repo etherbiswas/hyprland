@@ -9,4 +9,4 @@ rofi pavucontrol pcmanfm fish wl-clipboard wf-recorder     \
 grimblast-git ffmpegthumbnailer tumbler playerctl      \
 noise-suppression-for-voice pcmanfm alacritty\
 waybar-hyprland wlogout swaylock-effects sddm-git pamixer     \
-nwg-look-bin dunst github-desktop-bin startw
+nwg-look-bin dunst github-desktop-bin brave-bin
