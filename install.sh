@@ -33,6 +33,7 @@ github-desktop-bin
 brave-bin
 exa
 ttf-firacode-nerd
+ttf-dejavu
 lxappearance
 wl-color-picker
 wlsunset
