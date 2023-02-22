@@ -41,3 +41,4 @@ brightnessctl
 xdg-desktop-portal
 xdg-desktop-portal-wlr
 update-grub
+downgrade
