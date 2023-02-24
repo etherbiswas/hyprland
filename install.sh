@@ -4,6 +4,7 @@ base-devel
 # Yay
 hyprland-bin
 hyprpaper-git
+hyprcwd-git
 polkit-gnome
 ffmpeg
 neovim
