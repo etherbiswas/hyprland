@@ -37,6 +37,7 @@ ttf-dejavu
 lxappearance
 wl-color-picker
 wlsunset
+wlr-randr
 brightnessctl
 xdg-desktop-portal
 xdg-desktop-portal-wlr
