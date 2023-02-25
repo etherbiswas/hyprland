@@ -2,6 +2,7 @@
 base-devel
 
 # Yay
+tree
 hyprland-bin
 hyprpaper-git
 hyprcwd-git
