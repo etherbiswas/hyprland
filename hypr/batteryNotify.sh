@@ -27,8 +27,9 @@ else
 
     else
             if [ "$STATUS" = "Discharging" ]; then
-        if [ "$CHARGE" = "25" ]; then
+        if [ "$CHARGE" = "20" ]; then
                 notify-send --urgency=CRITICAL "Shutting Down!" "Level: ${CHARGE}%"
+                sleep 10s
                 paplay /usr/share/sounds/freedesktop/stereo/service-logout.oga
                 systemctl poweroff
         fi
