@@ -24,15 +24,17 @@ noise-suppression-for-voice
 pcmanfm
 alacritty
 waybar-hyprland
-swaylock-effects
-sddm-git
 pipewire
+pipewire-alsa
+pipewire-pulse
+pipewire-jack
+pipewire-audio
 pamixer
 alsa-utils
 nwg-look-bin
 dunst
 github-desktop-bin
-brave-bin
+firefox
 exa
 ttf-firacode-nerd
 ttf-dejavu
@@ -45,3 +47,4 @@ xdg-desktop-portal
 xdg-desktop-portal-wlr
 update-grub
 downgrade
+unzip

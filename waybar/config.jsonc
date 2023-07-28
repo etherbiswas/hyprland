@@ -45,7 +45,7 @@
     "custom/updates": {
         "exec": "(pacman -Qu ; yay -Qua) | wc -l",
         "interval": 7200,
-        "format": " {}"
+        "format": "󰇚 {}"
     },
     "tray": {
         "icon-size": 13,
@@ -58,7 +58,7 @@
     "backlight": {
         "device": "intel_backlight",
         "format": "{icon} {percent}%",
-        "format-icons": ["", "", ""],
+        "format-icons": ["󰃞 ", "󰃟 ", "󰃠 "],
         "on-scroll-up": "brightnessctl set 1%+",
         "on-scroll-down": "brightnessctl set 1%-",
         "min-length": 6
@@ -70,10 +70,10 @@
             "critical": 20
         },
         "format": "{icon} {capacity}%",
-        "format-charging": " {capacity}%",
-        "format-plugged": " {capacity}%",
+        "format-charging": "󰂄 {capacity}%",
+        "format-plugged": "󰂄 {capacity}%",
         "format-alt": "{time} {icon}",
-        "format-icons": ["", "", "", "", "", "", "", "", "", "", ""]
+        "format-icons": ["󰂎", "󰁺", "󰁻", "󰁼", "󰁽", "󰁾", "󰁿", "󰂀", "󰂁", "󰂂", "󰁹"]
     },
     "pulseaudio": {
         "format": "{icon} {volume}%",
@@ -95,8 +95,8 @@
     },
     "pulseaudio#microphone": {
         "format": "{format_source}",
-        "format-source": " {volume}%",
-        "format-source-muted": " Muted",
+        "format-source": "󰍬 {volume}%",
+        "format-source-muted": "󰍭 Muted",
         "on-click": "pamixer --default-source -t",
         "on-scroll-up": "pamixer --default-source -i 5",
         "on-scroll-down": "pamixer --default-source -d 5",
