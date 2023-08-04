@@ -3,7 +3,7 @@ base-devel
 
 # Yay
 tree
-hyprland-bin
+hyprland
 hyprpaper-git
 hyprcwd-git
 polkit-gnome
