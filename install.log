@@ -1,0 +1,12 @@
+[22:38:38 2023-07-23] FETCHING Version 2.21.0
+[22:38:38 2023-07-23] CREATING /home/ether/.spicetify
+[22:38:38 2023-07-23] DOWNLOADING https://github.com/spicetify/spicetify-cli/releases/download/v2.21.0/spicetify-2.21.0-linux-amd64.tar.gz
+[22:38:41 2023-07-23] EXTRACTING /home/ether/.spicetify/spicetify.tar.gz
+[22:38:41 2023-07-23] SETTING EXECUTABLE PERMISSIONS TO /home/ether/.spicetify/spicetify
+[22:38:41 2023-07-23] REMOVING /home/ether/.spicetify/spicetify.tar.gz
+[22:38:41 2023-07-23] APPENDING /home/ether/.spicetify to PATH in /home/ether/.bashrc
+[22:38:41 2023-07-23] Restart your shell to have spicetify in your PATH.
+[22:38:41 2023-07-23] APPENDING /home/ether/.spicetify to PATH in /home/ether/.bash_profile
+[22:38:41 2023-07-23] Restart your shell to have spicetify in your PATH.
+[22:38:41 2023-07-23] spicetify v2.21.0 was installed successfully to /home/ether/.spicetify
+[22:38:41 2023-07-23] Run 'spicetify --help' to get started
