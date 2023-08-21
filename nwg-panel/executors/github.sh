@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/nix/store/ir0j7zqlw9dc49grmwplppc7gh0s40yf-bash-5.2-p15/bin/bash
 
 # Based on the 'Github notifications' example from Waybar's Wiki
 # Depends on jq Command-line JSON processor

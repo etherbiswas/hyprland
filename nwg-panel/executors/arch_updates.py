@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/nix/store/2c7sgx69p6mmp76cvmi5j6c72dj76jj8-python3-3.10.12/bin/python
 
 import os
 import time
